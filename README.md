@@ -19,7 +19,7 @@ interface for users.
 
 WeatherBuddy Origins
 -------------------------
-WeatherBuddy was created by two passionate high school seniors striving to deliver a creative project for their
+WeatherBuddy was created by two passionate high school seniors: Madhumita Kumar and Ethan Wong, striving to deliver a creative project for their
 computer science course that would not only challenge them to explore web APIs and heighten their coding abilities,
 but at the same time find ways to improve daily lives of everyone around them. The idea came from pondering ways to
 help alleviate some of the stress from morning rush: preparing to get to school on time, running late for work, or
