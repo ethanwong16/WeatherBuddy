@@ -25,9 +25,9 @@ public class WeatherBuddy{
 			temp = console.next();
 		}
 
-		//Json stuff
+		//JSON Parsing
 
-			//temporary for test
+			//used for testing
 			String city = cities.get(0);
 			//
 
